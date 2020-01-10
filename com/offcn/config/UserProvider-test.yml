@@ -1,4 +1,4 @@
-provider-info：你好啊,我的客户.
+provider-info：HelloWorld
 server:
   port: 7001
 spring:
