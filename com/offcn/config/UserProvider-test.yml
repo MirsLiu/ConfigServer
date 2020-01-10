@@ -1,4 +1,4 @@
-provider-info£ºHelloWorld
+provider-info: HelloWorld
 server:
   port: 7001
 spring:
