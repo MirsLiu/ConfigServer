@@ -1,0 +1,13 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/MirsLiu/ConfigServer/
+          search-paths:
+          username: MirsLiu
+          password: yage.qwer123
