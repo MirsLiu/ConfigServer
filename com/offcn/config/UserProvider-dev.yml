@@ -1,4 +1,4 @@
-provider-Info: HelloWorld,I will come!
+provider-Info: HelloWorld,I like Java!
 server:
   port: 8013
 spring:
