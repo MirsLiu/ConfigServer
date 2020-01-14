@@ -1,5 +1,7 @@
 provider-Info: HelloWorld---UserProvider2!
 spring:
+  application:
+    name: UserProvider
   datasource:
     url: jdbc:mysql://db1:3306/jpa-last?serverTimezone=UTC
     username: root
