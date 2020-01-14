@@ -1,11 +1,11 @@
-provider-Info: HelloWorld---Test
+provider-Info: HelloWorld---UserProvider2!
 server:
   port: 8013
 spring:
   application:
     name: UserProvider
   datasource:
-    url: jdbc:mysql://localhost:3306/spring-cloud-day03?serverTimezone=UTC
+    url: jdbc:mysql://192.168.188.129:3306/jpa-last?serverTimezone=UTC
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
